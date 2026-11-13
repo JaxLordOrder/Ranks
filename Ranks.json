@@ -1,6 +1,7 @@
+
 {
   "VIP": [
-    1607837768
+    1607837768,
     4005875136
   ],
   "Server Booster": [
@@ -8,12 +9,22 @@
   ],
   "media perms": [],
   "pic perms+": [],
-  "Senior Moderator": [36651812],
+  "Moderators": [],
+  "Junior Moderator": [],
+  "Admins": [],
+  "Moderator": [],
+  "HeadAdmins": [],
+  "Senior Moderator": [
+    36651812
+  ],
   "Lord of the Moderators": [],
   "Administrator": [],
   "Community Manager": [],
   "Super duper useless admin": [],
   "Developer": [],
-  "Studio Scripter": [11218058268],
+  "Creators": [],
+  "Studio Scripter": [
+    11218058268
+  ],
   "Owner": []
 }
